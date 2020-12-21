@@ -1,6 +1,6 @@
 ### Who i'm i...
 
-I'm Bernal Varela, software developer from A Coruña, Galicia. Husband, father of two, computers lover since i can remember and working in what i like for more than 10 years.
+I'm Bernal Varela, software developer from A Coruña, Galicia. Husband, father of three, computers lover since i can remember and working in what i like for more than 10 years.
 
 Most of my career i have work with java, spring, microservices, huge amount of data and requests and their treatment in little amount of time.
 
